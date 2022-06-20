@@ -1,0 +1,34 @@
+.home {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.home img 
+{
+    width: 100%;
+    height: 400px;
+
+}
+
+.sbc p
+{
+    font-family: cursive;
+    color: green;
+    font-size: 70px;
+}
+
+.btn {
+}
+
+.ab {
+    background-color: green;
+    color: white;
+    margin: 5px;
+    padding: 10px 5px;
+}
+
+.ab th {
+    font-weight: bold;
+    font-size: 30px;
+}
