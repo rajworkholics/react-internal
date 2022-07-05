@@ -1,0 +1,38 @@
+.header {
+  margin-top: none;
+}
+  .header nav {
+    height: 100%;
+  }
+  
+  .header ul {
+    height: 100%;
+    list-style: none;
+    display: flex;
+    margin-left: 250px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header li {
+    padding: 3px;
+    width: 5rem;
+  }
+  
+  .header a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    color: green;
+    text-decoration: none;
+    
+  }
+  .header a:active,
+  .header a.active {
+    color: black;
+    padding-bottom: 0.25rem;
+  }

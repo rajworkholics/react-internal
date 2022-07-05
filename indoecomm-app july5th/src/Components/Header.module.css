@@ -1,0 +1,16 @@
+.header 
+{
+  background-color: black;
+  color: white;
+  height: fit-content;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 100px;
+  font-size: 13px;
+  font-family: "Poppins", sans-serifS;
+}
+
+.header span 
+{
+    color: red;
+}

@@ -1,0 +1,42 @@
+.footer {
+    padding-top: 50px;
+    padding-left: 100px;
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+  }
+  
+  .footer input {
+    margin-top: 20px;
+    height: 40px;
+    width: fit-content;
+    font-size: 14px;
+  }
+  
+  .footer button{
+    margin-top: 20px;
+    height: 40px;
+    width: fit-content;
+    font-size: 14px;
+    background-color: black;
+    border: 1px;
+    border-color:  white;
+    color: white;
+  }
+  
+  .footer h1 {
+    font-size: 20px;
+    font-family: "Poppins", sans-serifS;
+  }
+  .footer p{
+    padding-top: 20px;
+    font-size: 12px;
+    color: lightgray;
+  }
+  
+  .footer h2 {
+    font-size: 14px;
+    padding-top: none;
+    font-family: "Poppins", sans-serifS;
+    padding-left: 200px;
+  }
